@@ -1,2 +1,2 @@
 # theme-dump
-Old tumblr/livejournal themes. All themes have not been updated since at least 2017 and at most 2014.
+Old Tumblr theme. An example rendition of the HTML file is shown in example1.png. Colors, post size, pagination, etc. are all customizable within the native Tumblr editing interface. WARNING: This theme is depreciated as of 2017.
